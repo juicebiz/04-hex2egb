@@ -2,7 +2,7 @@
   "name": "04-hex2rgb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juicebiz.github.io/hex2rgb/",
+  "homepage": "https://juicebiz.github.io/04-hex2rgb/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
